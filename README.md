@@ -18,9 +18,9 @@ My nickname is Domi, and I am passionate about programming and game development.
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=domi23&theme=dark&background=000000)
 
-## 🎮 Current Project: *Curse of the Forgotten*
+## 🎮 Current Project: *Trashborn*
 
-I am working on a game called *Curse of the Forgotten*. It will be an atmospheric PSX-style game with unique gameplay and an engaging storyline.
+I am working on a game called *Trashborn*. It will be an atmospheric PSX-style game with unique gameplay (rogue-like and action) and an engaging storyline.
 
 ## Development Status
 *Progress: 30%*
