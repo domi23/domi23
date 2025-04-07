@@ -16,8 +16,8 @@ My nickname is Domi, and I'm a passionate programmer and game developer who love
 
 - **Proficient:** C#, Python, HTML/CSS
 - **Learning:** C++, JavaScript
-- **Game Dev Tools:** Unity Engine, Visual Studio
-- **3D Modeling:** Blender, Sketchfab
+- **Game Dev Tools:** Unity Engine, Visual Studio 2022, Visual Studio Code
+- **3D Modeling:** Blender, Adobe Substance 3D Painter
 - **Interested in:** Game development, 3D modeling, Network programming, Web development
 - **Other Skills:** Version Control (Git), Problem Solving, OOP Principles
 
