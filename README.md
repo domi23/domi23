@@ -13,8 +13,6 @@ My nickname is Domi, and I'm a passionate programmer and game developer who love
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/unity/unity-original.svg" alt="Unity" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/blender/blender-original.svg" alt="Blender" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"  alt="JavaScript" width="40" height="40"/>
-          
-  
 </p>
 
 - **Proficient:** C#, Python, HTML/CSS
@@ -23,6 +21,9 @@ My nickname is Domi, and I'm a passionate programmer and game developer who love
 - **3D Modeling:** Blender, Adobe Substance 3D Painter
 - **Interested in:** Game development, 3D modeling, Network programming, Web development
 - **Other Skills:** Version Control (Git), Problem Solving, OOP Principles
+
+
+[![Backroad Outlaws](https://i.postimg.cc/4ykBCn7m/2025-04-30-145028.png)](https://domi236.itch.io/backroad-outlaws)
 
 ## 🎮 Current Project: *Trashborn*
 
