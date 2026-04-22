@@ -1,56 +1,76 @@
-# 👋 Welcome to My Profile!
+<h1 align="center">Domi</h1>
 
-My nickname is Domi, and I'm a passionate programmer and game developer who loves 3D modeling and creating immersive experiences.
+<h3 align="center">Software Engineer | Game Developer | 3D Artist</h3>
 
-## 🛠️ Skills
-
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/unity/unity-original.svg" alt="Unity" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/blender/blender-original.svg" alt="Blender" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"  alt="JavaScript" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="40" height="40"/>
+<p align="center">
+  <i>"Code is poetry, and 3D models are its sculptures. Every polygon tells a story."</i>
 </p>
 
-- **Proficient:** C#, Python, HTML/CSS
-- **Learning:** C++, JavaScript, PHP
-- **Game Dev Tools:** Unity Engine, Visual Studio 2022, Visual Studio Code
-- **3D Modeling:** Blender, Adobe Substance 3D Painter
-- **Interested in:** Game development, 3D modeling, Network programming, Web development
-- **Other Skills:** Version Control (Git), Problem Solving, OOP Principles
+---
 
+## About Me
 
-[![Backroad Outlaws](https://i.postimg.cc/4ykBCn7m/2025-04-30-145028.png)](https://domi236.itch.io/backroad-outlaws)
+I am a junior software engineer and the founder of **Domiverse Studio**. I specialize in creating immersive game environments and writing clean, object-oriented code. My technical focus bridges gameplay programming with backend development, while my artistic direction is heavily inspired by classic PS1 aesthetics, low-poly modeling, and dithering techniques.
 
-## 🎮 Current Project: *Trashborn*
+- **Current Focus:** Leading development on *Trashborn* (a PSX-style action rogue-like) and Backroad Outlaws (multiplayer PSX-style rally).
+- **Continuous Learning:** Deepening expertise in Java, Python, FastAPI, Docker, and advanced OOP principles for robust software architecture.
+- **Core Expertise:** C#, Unity Engine, 3D Asset Pipelines (Blender), and network programming fundamentals.
 
-I'm developing *Trashborn* - an atmospheric PSX-style game with rogue-like elements, action gameplay, and an engaging storyline.
+---
 
-## Development Status
-*Progress: 30%*
+## Technical Stack
 
-## 🎨 My Creative Portfolio
-- 🕹️ [My Games and Assets on Itch.io](https://domi236.itch.io/)
-- 🖌️ [My 3D Models on Sketchfab](https://sketchfab.com/domi236)
+### Programming Languages
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 
-## 📫 Contact Me
-- 📧 Email: [swiftkey9702@gmail.com](mailto:swiftkey9702@gmail.com)
-- 💌 Feel free to reach out for collaborations or just to chat about game dev!
+### Game Development & 3D
+![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)
+![Blender](https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white)
+![Substance 3D](https://img.shields.io/badge/Substance%203D-E75A11?style=for-the-badge&logo=adobe&logoColor=white)
 
-## 💡 My Quotes
-> *"Code is poetry, and 3D models are its sculptures."*  
-> *"Every polygon tells a story in game development."*  
-> *"Live as if you were to die tomorrow. Learn as if you were to live forever."* — Mahatma Gandhi
+### Backend, Web & Tools
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
 
-## 🌟 Special Thanks
-- Huge thanks to the [Unity](https://unity.com/) and Blender communities
-- Special shoutout to everyone who supports my creative journey
-- Thanks to all my followers on Itch.io and Sketchfab!
+---
 
-## 📊 GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=domi23&show_icons=true&theme=dark)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=domi23&layout=compact&theme=dark)
+## Projects
+
+### Trashborn
+> **Status:** In Development (30%)
+> An atmospheric action game featuring rogue-like elements and a deep narrative. Designed with a strict adherence to retro PS1 aesthetics, utilizing stylized low-poly assets and era-accurate rendering constraints.
+
+### Backroad Outlaws
+> An arcade racing title driven by custom-built suspension physics and handling mechanics.
+> [![View on Itch.io](https://img.shields.io/badge/Play_on-Itch.io-FA5C5C?style=for-the-badge&logo=itch.io&logoColor=white)](https://domi236.itch.io/backroad-outlaws)
+
+---
+
+## Portfolio & Contact
+
+[![Itch.io](https://img.shields.io/badge/Games_&_Assets-Itch.io-FA5C5C?style=for-the-badge&logo=itch.io&logoColor=white)](https://domi236.itch.io/)
+[![Sketchfab](https://img.shields.io/badge/3D_Models-Sketchfab-1CAAD9?style=for-the-badge&logo=sketchfab&logoColor=white)](https://sketchfab.com/domi236)
+[![Email](https://img.shields.io/badge/Contact-swiftkey9702%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:swiftkey9702@gmail.com)
+
+---
+
+## GitHub Analytics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=domi23&show_icons=true&theme=github_dark&hide_border=true" alt="GitHub Stats" width="48%">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=domi23&layout=compact&theme=github_dark&hide_border=true" alt="Top Languages" width="48%">
+</p>
+
+<br>
+
+<p align="center">
+  <i>"Live as if you were to die tomorrow. Learn as if you were to live forever." — Mahatma Gandhi</i>
+</p>
