@@ -1,4 +1,4 @@
-<h1 align="center">Juan "Domi" Green</h1>
+<h1 align="center">Domi</h1>
 
 <h3 align="center">Software Engineer | Game Developer | 3D Artist</h3>
 
@@ -12,7 +12,7 @@
 
 I am a junior software engineer and the founder of **Domiverse Studio**. I specialize in creating immersive game environments and writing clean, object-oriented code. My technical focus bridges gameplay programming with backend development, while my artistic direction is heavily inspired by classic PS1 aesthetics, low-poly modeling, and dithering techniques.
 
-- **Current Focus:** Leading development on *Trashborn* (a PSX-style action rogue-like) and refining custom vehicle physics for *Backroad Outlaws*.
+- **Current Focus:** Leading development on *Trashborn* (a PSX-style action rogue-like) and Backroad Outlaws (a PSX-style multiplayer rally).
 - **Continuous Learning:** Deepening expertise in Java, Python, FastAPI, Docker, and advanced OOP principles for robust software architecture.
 - **Core Expertise:** C#, Unity Engine, 3D Asset Pipelines (Blender), and network programming fundamentals.
 
