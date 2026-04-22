@@ -1,65 +1,68 @@
 <h1 align="center">Juan "Domi" Green</h1>
+
 <h3 align="center">Software Engineer | Game Developer | 3D Artist</h3>
 
 <p align="center">
-  Founder of Domiverse Studio. Specialized in C# scripting, Unity physics, and PS1-style 3D modeling.
+  <i>"Code is poetry, and 3D models are its sculptures. Every polygon tells a story."</i>
 </p>
 
 ---
 
-## Technical Skills
+## About Me
 
-### Core Proficiencies
-- **Languages:** C#, Python, HTML, CSS
-- **Game Development:** Unity Engine, C# Scripting, Physics Implementation
-- **3D Modeling:** Blender, Adobe Substance 3D Painter, Low-poly Modeling, PSX Aesthetics
+I am a junior software engineer and the founder of **Domiverse Studio**. I specialize in creating immersive game environments and writing clean, object-oriented code. My technical focus bridges gameplay programming with backend development, while my artistic direction is heavily inspired by classic PS1 aesthetics, low-poly modeling, and dithering techniques.
 
-### Current Learning & Development
-- **Backend & Tools:** FastAPI, Flask, Docker, Java
-- **Languages:** C++, JavaScript, PHP
-- **Other:** Network Programming, Web Development
-
-### Software & Tools
-- **IDEs:** Visual Studio 2022, Visual Studio Code
-- **Asset Management:** Ninja Ripper, Mesh Merging, Version Control (Git)
-- **Foundations:** Object-Oriented Programming (OOP), Problem Solving
+- **Current Focus:** Leading development on *Trashborn* (a PSX-style action rogue-like) and refining custom vehicle physics for *Backroad Outlaws*.
+- **Continuous Learning:** Deepening expertise in Java, Python, FastAPI, Docker, and advanced OOP principles for robust software architecture.
+- **Core Expertise:** C#, Unity Engine, 3D Asset Pipelines (Blender), and network programming fundamentals.
 
 ---
 
-## Technologies
+## Technical Stack
 
+### Programming Languages
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+
+### Game Development & 3D
 ![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)
 ![Blender](https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white)
+![Substance 3D](https://img.shields.io/badge/Substance%203D-E75A11?style=for-the-badge&logo=adobe&logoColor=white)
+
+### Backend, Web & Tools
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
 
 ---
 
-## Active Projects
+## Projects
 
 ### Trashborn
-An atmospheric action rogue-like featuring a retro PS1-style aesthetic.
-- Status: 30% Progress
-- Focus: Stylized shaders, low-poly environments, and core gameplay loops.
+> **Status:** In Development (30%)
+> An atmospheric action game featuring rogue-like elements and a deep narrative. Designed with a strict adherence to retro PS1 aesthetics, utilizing stylized low-poly assets and era-accurate rendering constraints.
 
 ### Backroad Outlaws
-A racing project focused on high-fidelity vehicle physics and suspension mechanics.
-- [View on Itch.io](https://domi236.itch.io/backroad-outlaws)
+> An arcade racing title driven by custom-built suspension physics and handling mechanics.
+> [![View on Itch.io](https://img.shields.io/badge/Play_on-Itch.io-FA5C5C?style=for-the-badge&logo=itch.io&logoColor=white)](https://domi236.itch.io/backroad-outlaws)
 
 ---
 
 ## Portfolio & Contact
 
-[![Itch.io](https://img.shields.io/badge/Games-Itch.io-FA5C5C?style=for-the-badge&logo=itch.io&logoColor=white)](https://domi236.itch.io/)
+[![Itch.io](https://img.shields.io/badge/Games_&_Assets-Itch.io-FA5C5C?style=for-the-badge&logo=itch.io&logoColor=white)](https://domi236.itch.io/)
 [![Sketchfab](https://img.shields.io/badge/3D_Models-Sketchfab-1CAAD9?style=for-the-badge&logo=sketchfab&logoColor=white)](https://sketchfab.com/domi236)
-[![Email](https://img.shields.io/badge/Email-swiftkey9702%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:swiftkey9702@gmail.com)
+[![Email](https://img.shields.io/badge/Contact-swiftkey9702%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:swiftkey9702@gmail.com)
 
 ---
 
-## Statistics
+## GitHub Analytics
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=domi23&show_icons=true&theme=github_dark&hide_border=true" alt="GitHub Stats" width="48%">
