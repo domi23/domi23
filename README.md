@@ -1,16 +1,13 @@
-<!-- ══════ Светлая волна ══════ -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:d0d0d0,100:e8e8e8&height=200&section=header&text=Domi&fontSize=60&fontAlignY=38&desc=Software%20Engineer%20|%20Game%20Dev%20|%203D%20Artist&descAlignY=56&descSize=16&animation=fadeIn&fontColor=333333" width="100%"/>
 </p>
 
-<!-- ══════ Печатающийся текст ══════ -->
 <p align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Source+Code+Pro&weight=500&size=16&duration=3000&pause=2000&color=555555&center=true&vCenter=true&width=435&lines=Code+is+poetry;3D+models+are+its+sculptures;Every+polygon+tells+a+story" alt="Typing SVG" />
   </a>
 </p>
 
-<!-- ══════ Разделитель ══════ -->
 <hr style="border: 0; height: 1px; background: #ccc; margin: 30px 0;">
 
 ## About Me
@@ -60,7 +57,6 @@ I’m a junior software engineer and founder of **Domiverse Studio**, crafting i
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
 </p>
 
-<!-- ══════ Прогресс‑бары навыков ══════ -->
 <hr style="border: 0; height: 1px; background: #ccc; margin: 30px 0;">
 
 ## Skill Proficiency
@@ -73,7 +69,6 @@ I’m a junior software engineer and founder of **Domiverse Studio**, crafting i
   <img src="https://img.shields.io/badge/PostgreSQL-50%25-333?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=555"/>
 </p>
 
-<!-- ══════ Проекты ══════ -->
 <hr style="border: 0; height: 1px; background: #ccc; margin: 30px 0;">
 
 ## Projects
@@ -129,7 +124,6 @@ I’m a junior software engineer and founder of **Domiverse Studio**, crafting i
   <img src="https://komarev.com/ghpvc/?username=domi23&label=Profile%20views&color=777777&style=flat" alt="Profile views" />
 </p>
 
-<!-- ══════ Светлая волна в подвале ══════ -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:d0d0d0,100:e8e8e8&height=100&section=footer&animation=fadeIn" width="100%"/>
 </p>
